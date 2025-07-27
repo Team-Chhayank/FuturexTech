@@ -34,9 +34,10 @@ Preferred communication style: Simple, everyday language.
 ## Key Components
 
 ### Frontend Components
-- **Navigation**: Fixed header with smooth scrolling navigation
+- **Navigation**: Fixed header with both smooth scrolling and page routing navigation
 - **Hero**: Landing section with call-to-action buttons
 - **Services**: Exhibition design, event setup, carpentry, and interior design showcase
+- **Services Page**: Dedicated page with detailed service information, process flow, and pricing
 - **Portfolio**: Case studies with project examples
 - **Testimonials**: Client feedback section
 - **Contact**: Contact form with validation
