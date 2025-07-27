@@ -17,7 +17,7 @@ export default function Home() {
       <Testimonials />
       <Contact />
       <Footer />
-      <WhatsAppButton />
+
     </div>
   );
 }
