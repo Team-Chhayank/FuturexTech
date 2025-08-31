@@ -30,12 +30,17 @@ export default function Navigation() {
 
   return (
     <nav className="fixed top-0 w-full bg-white/95 backdrop-blur-sm z-50 border-b border-gray-100">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-16">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 bg-white">
+        <div className="flex justify-between items-center h-16 bg-white">
           <div className="flex items-center">
             <Link href="/" className="text-2xl font-bold text-primary flex items-center">
-              <Building2 className="mr-2 h-8 w-8" />
-              ExhibitPro
+              <img 
+                src="./src/components/assets/logo.JPG"
+                alt="Logo" 
+                className="h-16 w-auto mr-2 rounded" 
+                
+              />
+              Futurex
             </Link>
           </div>
 

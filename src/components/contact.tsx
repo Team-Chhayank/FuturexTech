@@ -208,7 +208,7 @@ export default function Contact() {
                   <Mail className="text-secondary h-6 w-6 mr-4 mt-1 flex-shrink-0" />
                   <div>
                     <h4 className="font-semibold mb-1">Email</h4>
-                    <p className="opacity-90">info@exhibitpro.com</p>
+                    <p className="opacity-90">info@Futurex.com</p>
                   </div>
                 </div>
               </div>

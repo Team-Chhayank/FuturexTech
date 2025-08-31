@@ -19,7 +19,7 @@ const testimonials = [
     logo: "ADAA",
     logoColor: "bg-secondary",
     image: "https://images.unsplash.com/photo-1494790108755-2616b612b786?ixlib=rb-4.0.3&auto=format&fit=crop&w=150&h=150",
-    content: "I would like to express our appreciation for the incredible work you did in designing and building our booth at GITEX 2024. This being our first year with our own booth, it was a milestone for us, and ExhibitPro was a great partner.",
+    content: "I would like to express our appreciation for the incredible work you did in designing and building our booth at GITEX 2024. This being our first year with our own booth, it was a milestone for us, and Futurex was a great partner.",
     industry: "ADAA Technology"
   },
   {

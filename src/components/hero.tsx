@@ -36,7 +36,7 @@ export default function Hero() {
           <Button 
             variant="outline"
             onClick={() => scrollToSection("contact")}
-            className="border-2 border-white text-white hover:bg-white hover:text-primary px-8 py-4 text-lg font-semibold h-auto"
+            className="border-2 border-white hover:bg-white text-primary hover:text-primary px-8 py-4 text-lg font-semibold h-auto"
           >
             Start Your Project
           </Button>

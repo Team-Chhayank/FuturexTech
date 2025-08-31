@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a full-stack web application for ExhibitPro, an exhibition and event services company. The application features a modern React frontend with a comprehensive company portfolio, services showcase, and contact form functionality, backed by an Express.js REST API.
+This is a full-stack web application for Futurex, an exhibition and event services company. The application features a modern React frontend with a comprehensive company portfolio, services showcase, and contact form functionality, backed by an Express.js REST API.
 
 ## User Preferences
 
